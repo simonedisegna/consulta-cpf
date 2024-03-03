@@ -38,7 +38,7 @@ Para executar o projeto localmente, siga estas etapas:
 
 ## Tela: layout do projeto com a consulta realizada
 
-(https://github.com/simonedisegna/consulta-cpf/blob/main/public/img/projeto.png) 
+![Disegna](https://github.com/simonedisegna/consulta-cpf/blob/main/public/img/projeto.png) 
 
 ## Observações finais:
 O projeto não foi incluído no Docker devido a um problema na configuração final, visualização do sistema no navegador. Apesar de configurar as portas corretamente, o sistema não era identificado pelo navegador.
