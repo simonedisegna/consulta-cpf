@@ -1,6 +1,6 @@
 # :computer: Desafio - Pesquisa de entrega  :computer:
 
-[Estrela]Arquitetura da Aplicação Web para Consulta de Dados de Entrega
+:Estrela: Arquitetura da Aplicação Web para Consulta de Dados de Entrega
 
 ## Projeto de Rastreamento de entrega
 
