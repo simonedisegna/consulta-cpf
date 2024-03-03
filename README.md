@@ -1,12 +1,12 @@
-# :computer: [Desafio - Pesquisa de entrega ] :computer:
+# :computer: Desafio - Pesquisa de entrega  :computer:
 
 [Estrela]Arquitetura da Aplicação Web para Consulta de Dados de Entrega
 
-# Projeto de Rastreamento de entrega
+## Projeto de Rastreamento de entrega
 
 Este projeto é uma aplicação web desenvolvida em PHP 8 e jQuery, utilizando o padrão de arquitetura MVC (Model-View-Controller) e outros padrões de design relevantes. Ele permite consultar dados de entrega com base no CPF fornecido pelo usuário.
 
-### Arquitetura MVC
+## Arquitetura MVC
 
 O projeto segue o padrão de arquitetura MVC, dividindo a aplicação em três componentes principais:
 
@@ -35,6 +35,10 @@ Para executar o projeto localmente, siga estas etapas:
 3. Configure o servidor web para apontar para o diretório `public/`.
 4. Certifique-se de que o PHP 8 esteja instalado em seu sistema.
 5. Acesse a aplicação em seu navegador.
+
+## Tela: layout do projeto com a consulta realizada
+
+(https://github.com/simonedisegna/consulta-cpf/blob/main/public/img/projeto.png) 
 
 ## Observações finais:
 O projeto não foi incluído no Docker devido a um problema na configuração final, visualização do sistema no navegador. Apesar de configurar as portas corretamente, o sistema não era identificado pelo navegador.
