@@ -4,7 +4,7 @@ namespace Api;
 class ApiService {
     public function consultarListaTransportadoras($cpf) {
         // Carrega o conteúdo do JSON
-        $jsonContent = file_get_contents('../data/API_LISTAGEM_ENTREGAS.json');
+        $jsonContent = file_get_contents('/var/www/html/consulta-cpf/data/API_LISTAGEM_ENTREGAS.json');        
         $data = json_decode($jsonContent, true);
 
         // Verifica se o JSON foi carregado corretamente
@@ -29,7 +29,8 @@ class ApiService {
         $token = $entrega['_id_transportadora'];
        
         // Carrega o conteúdo do JSON de transportadoras
-        $jsonTransportadoras = file_get_contents('../data/API_LISTAGEM_TRANSPORTADORAS.json');
+        $jsonTransportadoras = file_get_contents('/var/www/html/consulta-cpf/data/API_LISTAGEM_TRANSPORTADORAS.json');
+        
         $dataTransportadoras = json_decode($jsonTransportadoras, true);
 
         // Verifica se o JSON de transportadoras foi carregado corretamente

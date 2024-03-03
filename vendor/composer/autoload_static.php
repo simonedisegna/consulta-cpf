@@ -15,6 +15,10 @@ class ComposerStaticInit36327afb67145a458360f9ff355d8727
         array (
             'View\\' => 5,
         ),
+        'T' => 
+        array (
+            'Tests\\' => 6,
+        ),
         'M' => 
         array (
             'Model\\' => 6,
@@ -38,6 +42,10 @@ class ComposerStaticInit36327afb67145a458360f9ff355d8727
         'View\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src/View',
+        ),
+        'Tests\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/tests',
         ),
         'Model\\' => 
         array (

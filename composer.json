@@ -7,7 +7,12 @@
             "Controller\\": "src/Controller/",
             "Model\\": "src/Model/",
             "View\\": "src/View/",
-            "Api\\": "src/Api/",
+            "Api\\": "src/Api/"
+            
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
             "Tests\\": "tests/"
         }
     },
