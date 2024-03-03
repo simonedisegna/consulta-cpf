@@ -1,0 +1,27 @@
+{
+    "name": "simone/consulta-cpf",
+    "description": "consulta de entrega de produto",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "src/Controller/",
+            "Model\\": "src/Model/",
+            "View\\": "src/View/",
+            "Api\\": "src/Api/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Simone Disegna"
+        }
+    ],
+    "minimum-stability": "stable",
+    
+    "require": {
+        "php": "^8.0"
+      },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}

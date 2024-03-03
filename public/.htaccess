@@ -1,0 +1,4 @@
+DirectoryIndex index.php
+AllowOverride All
+Order allow,deny
+Allow from all
