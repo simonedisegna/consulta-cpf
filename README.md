@@ -41,5 +41,8 @@ Para executar o projeto localmente, siga estas etapas:
 ![Disegna](https://github.com/simonedisegna/consulta-cpf/blob/main/public/img/projeto.png) 
 
 ## Observações finais:
-O projeto não foi incluído no Docker devido a um problema na configuração final, visualização do sistema no navegador. Apesar de configurar as portas corretamente, o sistema não era identificado pelo navegador.
-Quanto ao Angular, encontrei dificuldades durante a instalação. O sistema apresentava erros e não conseguia instalar o pacote principal para execução. Não consegui determinar se isso ocorreu devido a problemas de versão ou devido à falta de conhecimento necessário para configurá-lo corretamente.
+Durante o desenvolvimento do projeto, encontrei desafios ao tentar incluí-lo no Docker devido a problemas na configuração final, o que resultou na dificuldade de visualização do sistema no navegador. Embora tenha tentado configurar as portas corretamente, o sistema não era identificado pelo navegador, e isso impediu sua inclusão no Docker.
+
+Além disso, ao tentar integrar o Angular, me deparei com dificuldades durante o processo de instalação. O sistema apresentava erros e não consegui instalar o pacote principal para execução. Essas dificuldades me levaram a questionar se elas surgiram devido a problemas de versão ou devido à minha falta de conhecimento necessário para configurar o Angular corretamente.
+
+Apesar desses obstáculos, estou comprometido em aprender e desenvolver minhas habilidades. Estou disposto a dedicar tempo e esforço para superar esses desafios e me aprimorar continuamente. Agradeço pela oportunidade de aprendizado e crescimento que essa experiência proporcionou.
